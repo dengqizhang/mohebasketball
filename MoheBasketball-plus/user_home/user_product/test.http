@@ -1,0 +1,5 @@
+### 查询
+GET http://localhost:9002/getProduct
+
+### 查询一个商品
+GET http://localhost:9002/getProduct/1

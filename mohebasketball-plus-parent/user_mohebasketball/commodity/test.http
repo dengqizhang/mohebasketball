@@ -1,0 +1,7 @@
+### 查询所有的商品信息
+GET http://localhost:8007/getCommodity
+
+
+### 查询一条商品信息
+GET http://localhost:8007/getCommodity/2
+

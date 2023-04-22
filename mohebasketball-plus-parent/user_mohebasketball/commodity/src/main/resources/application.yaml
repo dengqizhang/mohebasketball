@@ -1,0 +1,17 @@
+database: commodity
+server:
+  port: 8007
+
+spring:
+  application:
+    name: Commodity-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.26.48.1:8848
+      config:
+        server-addr: 172.26.48.1:8848
+        file-extension: yaml
+  config:
+    import:
+      - "nacos:datasource"

@@ -1,0 +1,5 @@
+### 查询一个订单
+GET http://localhost:8008/orders/2
+
+### 查询全部订单
+GET http://localhost:8008/orders

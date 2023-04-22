@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "amount": 1588,
+  "productDto": {
+    "id": null,
+    "cname": null,
+    "url": null,
+    "price": null,
+    "stock": null
+  }
+}

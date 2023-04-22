@@ -1,0 +1,17 @@
+database: mh_user_product
+server:
+  port: 9002
+
+spring:
+  application:
+    name: product-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+  config:
+    import:
+      - "nacos:datasource"

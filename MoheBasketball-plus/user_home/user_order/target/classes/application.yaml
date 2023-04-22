@@ -1,0 +1,17 @@
+database: mh_user_order
+server:
+  port: 9003
+
+spring:
+  application:
+    name: order-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+  config:
+    import:
+      - "nacos:datasource"

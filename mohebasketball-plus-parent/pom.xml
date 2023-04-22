@@ -22,13 +22,29 @@
         <maven.compiler.target>8</maven.compiler.target>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
-<!--    依赖管理,在此结构体中放入的依赖不会配置到子模块中-->
+<!--    材料库依赖管理,在此结构体中放入的依赖不会配置到子模块中-->
     <dependencyManagement>
         <dependencies>
             <dependency>
                 <groupId>org.springframework.boot</groupId>
                 <artifactId>spring-boot-dependencies</artifactId>
-                <version>2.7.9</version>
+                <version>2.6.13</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+            <!--        springCloud依赖-->
+            <dependency>
+                <groupId>org.springframework.cloud</groupId>
+                <artifactId>spring-cloud-dependencies</artifactId>
+                <version>2021.0.5</version>
+                <scope>import</scope>
+                <type>pom</type>
+            </dependency>
+<!--            springCloudAlibaba依赖-->
+            <dependency>
+                <groupId>com.alibaba.cloud</groupId>
+                <artifactId>spring-cloud-alibaba-dependencies</artifactId>
+                <version>2021.0.5.0</version>
                 <scope>import</scope>
                 <type>pom</type>
             </dependency>
@@ -36,6 +52,22 @@
     </dependencyManagement>
 <!--所有模块共享的依赖-->
     <dependencies>
+<!--        nacos的依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-nacos-discovery</artifactId>
+        </dependency>
+        <!--        nacos配置中心的依赖-->
+        <dependency>
+            <groupId>com.alibaba.cloud</groupId>
+            <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+        </dependency>
+<!--        dto的依赖-->
+        <dependency>
+            <groupId>org.example</groupId>
+            <artifactId>com-commons</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
@@ -73,6 +105,8 @@
             <artifactId>slf4j-api</artifactId>
         </dependency>
     </dependencies>
+
+
 
 
 <!--    打包模块-->

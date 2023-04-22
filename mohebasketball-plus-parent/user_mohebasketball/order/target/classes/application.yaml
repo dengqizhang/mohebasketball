@@ -1,0 +1,29 @@
+database: shopping_trolley
+server:
+  port: 8008
+
+spring:
+  application:
+    name: Order1-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: 172.26.48.1:8848
+      config:
+        server-addr: 172.26.48.1:8848
+        file-extension: yaml
+  config:
+    import:
+      - "nacos:datasource"
+
+feign:
+  circuitbreaker:
+    enabled: true
+    alphanumeric-ids:
+      enabled: true
+
+resilience4j:
+  timelimiter:
+    instances:
+      CommodityClient#findAllCommodity:
+        timeoutDuration: 1s

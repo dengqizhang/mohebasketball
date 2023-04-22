@@ -15,7 +15,6 @@ public class Result<T> {
     //增删改成功响应
     public static <T> Result<T> success(){
         return new Result<>(1,"success",null);
-
     }
     //查询成功响应
     public static Result success(Object data){
