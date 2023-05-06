@@ -19,11 +19,23 @@ public class ProductController {
     public List<ProductDto> findAllProduct(){
         return  productService.list();
     }
+
+//    //查询全部产根据订单id
+//    @GetMapping("/getProductByOrderId/{id}")
+//    public List<ProductDto> getProductByOrderId(@PathVariable("id") String id){
+//        return  productService.getProductList(id);
+//    }
     //查询一个商品
     @GetMapping("/getProduct/{id}")
     @ResponseBody
     public ProductDto findByIdProduct(@PathVariable("id") int id){
 
         return productService.findById(id);
+    }
+    //批量查询商品
+    @GetMapping("/getProduct1")
+    @ResponseBody
+    public List<ProductDto> findByIdProduct1(@RequestParam("ids") int[] ids){
+        return productService.findById1(ids);
     }
 }

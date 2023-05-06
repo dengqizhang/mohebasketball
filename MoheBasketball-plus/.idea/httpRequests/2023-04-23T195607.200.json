@@ -1,0 +1,11 @@
+{
+  "id": 1,
+  "amount": 1588,
+  "productDto": {
+    "id": 1,
+    "cname": "手机数码",
+    "url": "https://upload-images.jianshu.io/upload_images/27448672-f75ad73c84dd7233.jpg?imageMogr2/auto-orient/strip|imageView2/2/w/140/format/webp",
+    "price": 1588,
+    "stock": 4
+  }
+}

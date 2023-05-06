@@ -1,6 +1,0 @@
-{
-  "timestamp": "2023-04-20T05:10:38.668+00:00",
-  "status": 400,
-  "error": "Bad Request",
-  "path": "/getProduct/1,2"
-}

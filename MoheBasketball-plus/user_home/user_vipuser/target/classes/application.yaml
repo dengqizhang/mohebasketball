@@ -1,0 +1,17 @@
+database: mh_admin_vipuser
+server:
+  port: 9006
+
+spring:
+  application:
+    name: VipUser-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+  config:
+    import:
+      - "nacos:datasource"

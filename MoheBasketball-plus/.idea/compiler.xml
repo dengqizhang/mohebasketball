@@ -9,9 +9,11 @@
         <outputRelativeToContentRoot value="true" />
         <module name="admin_home" />
         <module name="user_order" />
+        <module name="user_product" />
+        <module name="user_vipuser" />
         <module name="user_accounts" />
         <module name="config" />
-        <module name="user_product" />
+        <module name="gateway" />
       </profile>
     </annotationProcessing>
   </component>

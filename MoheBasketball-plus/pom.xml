@@ -13,6 +13,7 @@
         <module>user_home</module>
         <module>admin_home</module>
         <module>config</module>
+        <module>gateway</module>
     </modules>
 <!--    材料库版本-->
     <properties>
@@ -25,6 +26,11 @@
     </properties>
 <!--    父子工程共享依赖-->
     <dependencies>
+        <!--    springsecurity-->
+<!--        <dependency>-->
+<!--            <groupId>org.springframework.boot</groupId>-->
+<!--            <artifactId>spring-boot-starter-security</artifactId>-->
+<!--        </dependency>-->
 <!--        springboot-->
         <dependency>
             <groupId>org.springframework.boot</groupId>

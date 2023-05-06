@@ -15,6 +15,7 @@
         <module>user_product</module>
         <module>user_order</module>
         <module>user_accounts</module>
+        <module>user_vipuser</module>
     </modules>
 
     <properties>

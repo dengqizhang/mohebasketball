@@ -3,3 +3,7 @@ GET http://localhost:9002/getProduct
 
 ### 查询一个商品
 GET http://localhost:9002/getProduct/1
+
+
+### 查询多个商品
+GET http://localhost:9002/getProduct1?ids=1&ids=2

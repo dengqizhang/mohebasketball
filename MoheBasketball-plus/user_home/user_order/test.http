@@ -7,3 +7,8 @@ GET http://localhost:9003/orders/1
 
 ### 远程调用accounts
 GET http://localhost:9003/getaccounts/2;
+
+
+
+### 远程调用
+GET http://localhost:9003/order1/1

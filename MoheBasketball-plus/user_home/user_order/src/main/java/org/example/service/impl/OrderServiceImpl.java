@@ -28,6 +28,7 @@ public class OrderServiceImpl implements OrderService {
     public Order loadOrder(int id) {
         OrderPo orderPo = orderMapper.selectById(id);
         ProductDto byIdProduct = productClient.findByIdProduct(orderPo.getProductId());
+
         return new Order().setId(orderPo.getId()).setAmount(orderPo.getOrderAmount()).setProductDto(byIdProduct);
     }
 }
