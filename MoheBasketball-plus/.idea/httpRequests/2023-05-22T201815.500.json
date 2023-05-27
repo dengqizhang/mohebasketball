@@ -1,0 +1,6 @@
+{
+  "timestamp": "2023-05-22T12:18:15.759+00:00",
+  "status": 500,
+  "error": "Internal Server Error",
+  "path": "/user/vip/getVipUser"
+}

@@ -16,7 +16,7 @@ public class VipUserDto {
     private Integer id;
     private String name;
 
-    private String cellphone;
+    private String cellPhone;
 
     private String clubcard;
 }

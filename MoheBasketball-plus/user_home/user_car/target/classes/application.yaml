@@ -1,0 +1,17 @@
+database: mh_user_car
+server:
+  port: 9010
+
+spring:
+  application:
+    name: car-service
+  cloud:
+    nacos:
+      discovery:
+        server-addr: localhost:8848
+      config:
+        server-addr: localhost:8848
+        file-extension: yaml
+  config:
+    import:
+      - "nacos:datasource"

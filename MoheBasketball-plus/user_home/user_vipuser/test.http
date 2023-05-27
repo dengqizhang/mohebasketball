@@ -1,4 +1,4 @@
-GET http://localhost:9006/getVipUser
+GET http://localhost:9006/admin/vip/getVipUser
 Accept: application/json
 
 ###

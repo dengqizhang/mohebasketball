@@ -10,6 +10,6 @@ public interface ProductService {
 //    List<ProductDto> getProductList(String id);
 
     ProductDto findById(int id);
-
-    List<ProductDto> findById1(int[] ids);
+    //批量查询商品
+    List<ProductDto> getProductsByIds(List<Long> ids);
 }

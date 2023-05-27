@@ -17,10 +17,30 @@ spring:
         - id: order-service
           uri: http://localhost:9003
           order: 0
-          predicates:
-            - Path=/order/**
+          predicates: # 断言规则
+            - Path=/order/** # 路由order及下所有的路径
         - id: product-service # 路由标识，必须唯一
           uri: http://localhost:9002
           order: 0
           predicates:
             - Path=/getProduct/**
+        - id: vip-service # 路由标识，必须唯一
+          uri: http://localhost:9009
+          order: 0
+          predicates:
+            - Path=/admin/vip/**
+        - id: admin-product-service # 路由标识，必须唯一
+          uri: http://localhost:9008
+          order: 0
+          predicates:
+            - Path=/admin/product/**
+        - id: user-product-service # 路由标识，必须唯一
+          uri: http://localhost:9002
+          order: 0
+          predicates:
+            - Path=/user/product/**
+        - id: user-car-service # 路由标识，必须唯一
+          uri: http://localhost:9010
+          order: 0
+          predicates:
+            - Path=/user/car/**

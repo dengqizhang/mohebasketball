@@ -6,4 +6,14 @@ GET http://localhost:9002/getProduct/1
 
 
 ### 查询多个商品
-GET http://localhost:9002/getProduct1?ids=1&ids=2
+GET http://localhost:9002/getProduct1/ids=1,2
+
+
+### 查询多个商品
+GET http://localhost:10010/user/product/getProduct
+Accept: application/json
+
+
+###
+GET http://localhost:10010/user/product/getProduct/4
+###

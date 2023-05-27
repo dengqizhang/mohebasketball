@@ -1,15 +1,14 @@
 package org.example.service.impl;
 
-import org.example.Mapper.ProductMapper;
+import org.example.mapper.ProductMapper;
 import org.example.model.ProductDto;
 import org.example.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
 import java.util.Arrays;
-import java.util.HashMap;
 import java.util.List;
-import java.util.Map;
+import java.util.stream.Collectors;
 
 @Service
 public class ProductServiceImpl implements ProductService {
@@ -31,10 +30,10 @@ public class ProductServiceImpl implements ProductService {
     public ProductDto findById(int id) {
         return productMapper.selectById(id);
     }
-
+    //批量查询商品
     @Override
-    public List<ProductDto> findById1(int[] ids) {
-        return productMapper.selectBatchIds(Arrays.asList(ids));
+    public List<ProductDto> getProductsByIds(List<Long> ids) {
+        return productMapper.selectBatchIds(ids);
     }
 
 

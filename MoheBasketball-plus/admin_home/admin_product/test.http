@@ -1,0 +1,8 @@
+###
+## 获取全部商品
+GET http://localhost:10010/admin/getAdminProduct
+###
+## 根据id删除单个商品
+POST http://localhost:10010/admin/deleteProduct/1
+###
+## 增加商品

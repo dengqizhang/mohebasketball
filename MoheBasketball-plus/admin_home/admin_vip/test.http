@@ -1,0 +1,5 @@
+### 查询所有会员
+GET http://localhost:10010/admin/vip
+
+### 根据id删除会员
+DELETE http://localhost:10010/admin/vip/8

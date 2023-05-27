@@ -42,7 +42,6 @@ public class UserServiceLmpl implements UserService {
     public void add(User user) { //前端提交的数据
         user.setCreateTime(Timestamp.valueOf(LocalDateTime.now()));
         user.setUpdateTime(Timestamp.valueOf(LocalDateTime.now()));
-
         userMapper.insert(user);
     }
     /*

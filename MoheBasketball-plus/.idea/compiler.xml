@@ -7,14 +7,21 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="user_shoppingcar" />
         <module name="admin_home" />
+        <module name="admin_product" />
+        <module name="user_car" />
         <module name="user_order" />
         <module name="user_product" />
         <module name="user_vipuser" />
         <module name="user_accounts" />
         <module name="config" />
         <module name="gateway" />
+        <module name="admin_vip" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="user_shoppingcar" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>

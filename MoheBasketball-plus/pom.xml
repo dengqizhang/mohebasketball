@@ -14,6 +14,9 @@
         <module>admin_home</module>
         <module>config</module>
         <module>gateway</module>
+        <module>admin_home/admin_product</module>
+        <module>admin_home/admin_vip</module>
+        <module>user_home/user_car</module>
     </modules>
 <!--    材料库版本-->
     <properties>

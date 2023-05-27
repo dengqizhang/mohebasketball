@@ -1,0 +1,86 @@
+[
+  {
+    "id": 4,
+    "cname": "牛奶",
+    "url": "https://uploads.114kb.cn/shop/atlas/large/2020/02/15/15817673966641.jpg",
+    "price": 10,
+    "stock": 7
+  },
+  {
+    "id": 9,
+    "cname": "可乐",
+    "url": "https://img.zcool.cn/community/017483591da785b5b3086ed4904903.jpg@1280w_1l_2o_100sh.jpg",
+    "price": 3,
+    "stock": 4
+  },
+  {
+    "id": 10,
+    "cname": "月卡",
+    "url": null,
+    "price": 199,
+    "stock": null
+  },
+  {
+    "id": 11,
+    "cname": "矿泉水",
+    "url": "https://img.zcool.cn/community/010d7259e45c89a80121ae0c718e38.jpg@2o.jpg",
+    "price": 2,
+    "stock": 20
+  },
+  {
+    "id": 31,
+    "cname": "袜子",
+    "url": "https://th.bing.com/th/id/OIP.frdXqTGHfT-umAW4iNGDigHaHa?pid=ImgDet&rs=1",
+    "price": 25,
+    "stock": 20
+  },
+  {
+    "id": 32,
+    "cname": "周卡",
+    "url": null,
+    "price": 99,
+    "stock": null
+  },
+  {
+    "id": 33,
+    "cname": "季卡",
+    "url": null,
+    "price": 599,
+    "stock": null
+  },
+  {
+    "id": 34,
+    "cname": "年卡",
+    "url": null,
+    "price": 899,
+    "stock": null
+  },
+  {
+    "id": 35,
+    "cname": "佳得乐(柠檬味)",
+    "url": "https://image.jianke.com/upload/prodimage/201410wm/20141081785377.jpg",
+    "price": 5,
+    "stock": 40
+  },
+  {
+    "id": 36,
+    "cname": "佳得乐(橙子味)",
+    "url": "https://image.jianke.com/upload/prodimage/201410wm/2014108171756525.jpg",
+    "price": 5,
+    "stock": 40
+  },
+  {
+    "id": 37,
+    "cname": "佳得乐(蓝莓味)",
+    "url": "https://image.jianke.com/suo/upload/prodimage/201410/201410817245655!320x320.jpg",
+    "price": 5,
+    "stock": 40
+  },
+  {
+    "id": 38,
+    "cname": "面包",
+    "url": "https://th.bing.com/th/id/R.ccc769e7561415d2c533fba8bcb71b91?rik=2PuvXpfbOo1mwA&riu=http%3a%2f%2fimg.canyin.com%2f2019%2f01%2fGr0Nezt0OQ86.png&ehk=6l0PZV9tlJPwYua4tzXXlIdRxdb3TRRvlOJah%2b2Fzyg%3d&risl=&pid=ImgRaw&r=0",
+    "price": 7,
+    "stock": 20
+  }
+]
