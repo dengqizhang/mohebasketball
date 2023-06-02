@@ -16,6 +16,5 @@ import java.util.List;
 @Accessors(chain = true)
 public class Car {
     private Integer id;
-    private int productPrice;
     private List<ProductDto> productDto = new ArrayList<>();
 }

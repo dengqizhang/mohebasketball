@@ -17,6 +17,7 @@
         <module>admin_home/admin_product</module>
         <module>admin_home/admin_vip</module>
         <module>user_home/user_car</module>
+        <module>user_home/user_orders</module>
     </modules>
 <!--    材料库版本-->
     <properties>
@@ -69,6 +70,12 @@
         <dependency>
             <groupId>com.alibaba.cloud</groupId>
             <artifactId>spring-cloud-starter-alibaba-nacos-config</artifactId>
+        </dependency>
+<!--        json-->
+        <dependency>
+            <groupId>com.alibaba</groupId>
+            <artifactId>fastjson</artifactId>
+            <version>2.0.18</version>
         </dependency>
     </dependencies>
 <!--    定义材料库-->

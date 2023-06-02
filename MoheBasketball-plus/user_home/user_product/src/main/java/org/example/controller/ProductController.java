@@ -1,14 +1,11 @@
 package org.example.controller;
-
 import org.example.mapper.ProductMapper;
 import org.example.model.ProductDto;
 import org.example.service.ProductService;
-import org.example.utils.Result;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
-import javax.swing.*;
-import java.util.Arrays;
 import java.util.List;
 
 
@@ -20,13 +17,11 @@ public class ProductController {
     @Autowired private ProductMapper productMapper;
     //查询全部产品
     @GetMapping("/getProduct")
-    @ResponseBody
     public List<ProductDto> findAllProduct(){
         return  productService.list();
     }
     //查询一个商品
     @GetMapping("/getProduct/{id}")
-    @ResponseBody
     public ProductDto findByIdProduct(@PathVariable("id") int id){
         return productService.findById(id);
     }
@@ -35,4 +30,11 @@ public class ProductController {
     public List<ProductDto> findByIdProducts(@RequestParam("ids") List<Long> ids){
         return productService.getProductsByIds(ids);
     }
+    //传入商品id和要更新的库存数量
+    @PostMapping("/updateproduct")
+    public ResponseEntity<String> updataproduct(@RequestParam("cid") Integer cid, @RequestParam("stock") Integer stock){
+         String result = productService.updateproduct(cid,stock);
+         return ResponseEntity.ok(result);
+    }
+
 }

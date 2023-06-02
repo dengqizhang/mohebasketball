@@ -1,5 +1,6 @@
 package org.example.service.impl;
 
+import com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper;
 import org.example.client.ProductClient;
 import org.example.domin.Car;
 import org.example.mapper.CarMapper;
@@ -8,6 +9,7 @@ import org.example.pojo.CarPo;
 import org.example.service.CarService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
+import org.springframework.util.CollectionUtils;
 
 import java.util.List;
 
@@ -39,6 +41,6 @@ public class CarServiceImpl implements CarService {
         List<ProductDto> byIdProducts = findByIdProducts(ids);
         System.out.println(byIdProducts);
         //new一个Car返回出去
-        return new Car().setId(allcar.getId()).setProductPrice(allcar.getProductPrice()).setProductDto(byIdProducts);
+        return new Car().setId(allcar.getId()).setProductDto(byIdProducts);
     }
 }

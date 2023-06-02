@@ -44,3 +44,8 @@ spring:
           order: 0
           predicates:
             - Path=/user/car/**
+        - id: user-orders-service # 路由标识，必须唯一
+          uri: http://localhost:9003
+          order: 0
+          predicates:
+            - Path=/user/orders/**

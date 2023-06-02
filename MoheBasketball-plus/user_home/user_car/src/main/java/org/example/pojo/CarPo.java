@@ -17,6 +17,5 @@ import java.util.List;
 @TableName("mh_user_tb_car")
 public class CarPo {
     private Integer id;
-    private int productPrice;
-    private List<Long> productId = new ArrayList<>();
+    private Integer productId;
 }

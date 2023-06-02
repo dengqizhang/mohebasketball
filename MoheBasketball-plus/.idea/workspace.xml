@@ -5,80 +5,76 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b7fd42d-94be-4231-8d17-c3a6251291c2" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/admin_home/admin_product/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/admin_home/admin_vip/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user_home/user_car/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T160108.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T160458.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T160901.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T160910.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T160911.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T160915.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T160918.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170209.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170238.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170239.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170249.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170250.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170259.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170301.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170404.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170742.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T170924.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T171356.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T171533.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T195554.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T195600.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T195605.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T195607.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T195614.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T195615.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-23T195618.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-24T205448.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-24T205520.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-29T093313.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-29T093337.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-29T093444.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-29T093720.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-04-29T093842.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-05T185849.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-05T190105.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-05T192517.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T095432.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T143741.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T143742.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T143747.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T143749.500.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T143754.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T143755.404.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T143809.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-06T182116.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T191022.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T191220.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T192321.200.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T192342.200.json" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/src/main/java/org/example/model/VipUserDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/config/src/main/java/org/example/model/VipUserDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config/target/classes/org/example/model/VipUserDto.class" beforeDir="false" afterPath="$PROJECT_DIR$/config/target/classes/org/example/model/VipUserDto.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_home/admin_vip/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/admin_home/admin_vip/test.http" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/Mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/mapper/ProductMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/client/ProductClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/client/ProductClient.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/domin/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/domin/Car.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/pojo/CarPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/pojo/CarPo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/CarService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/impl/CarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/impl/CarServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/client/ProductClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/client/ProductClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/domin/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/domin/Car.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/pojo/CarPo.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/pojo/CarPo.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/service/impl/CarServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/service/impl/CarServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/OrderMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/AccountsClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/ProductClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/fallback/FallBackAccountsClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/fallback/FallBackProductClient.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/controller/OrderController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/domin/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/mapper/OrderMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/pojo/OrderPo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/service/OrderService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/service/impl/OrderServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/OrderMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/AccountsClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/ProductClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/fallback/FallBackAccountsClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/fallback/FallBackProductClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/controller/OrderController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/domin/Order.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/mapper/OrderMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/pojo/OrderPo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/service/impl/OrderServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_order/test.http" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/mapper/ProductMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/ProductService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/Mapper/ProductMapper.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/Mapper/ProductMapper.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/controller/ProductController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/ProductService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/controller/VipUserController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/controller/VipUserController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/controller/VipUserController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/controller/VipUserController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_vipuser/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mohebasketball-plus-parent/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../mohebasketball-plus-parent/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../mohebasketball-plus-parent/root_mohebasketball/member_management/src/main/java/org/example/service/servicelmpl/UserServiceLmpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/../mohebasketball-plus-parent/root_mohebasketball/member_management/src/main/java/org/example/service/servicelmpl/UserServiceLmpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_orders/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/VipUserMain.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/controller/VipUserController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/mapper/VipUserMapper.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/service/VipUserService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/service/impl/VipUserServiceImpl.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/resources/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/application.yaml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/VipUserMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/controller/VipUserController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/mapper/VipUserMapper.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/service/VipUserService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/service/impl/VipUserServiceImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/test.http" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,11 +125,12 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "jdk.selected.JAVA_MODULE": "1.8",
-    "last_opened_file_path": "D:/PJ/MoheBasketball/MoheBasketball-plus/user_home/user_car/src/main/resources",
+    "last_opened_file_path": "D:/PJ/MoheBasketball/MoheBasketball-plus/user_home/user_orders/src/main/resources",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
@@ -151,11 +148,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\PJ\MoheBasketball\MoheBasketball-plus\user_home\user_orders\src\main\resources" />
       <recent name="D:\PJ\MoheBasketball\MoheBasketball-plus\user_home\user_car\src\main\resources" />
       <recent name="D:\PJ\MoheBasketball\MoheBasketball-plus\user_home\user_shoppingcar\src\main\resources" />
       <recent name="D:\PJ\MoheBasketball\MoheBasketball-plus\admin_home\admin_vip\src\main\resources" />
       <recent name="D:\PJ\MoheBasketball\MoheBasketball-plus\admin_home\admin_product\src\main\resources" />
-      <recent name="D:\PJ\MoheBasketball\MoheBasketball-plus\user_home\user_vipuser\src\main\resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\PJ\MoheBasketball\MoheBasketball-plus\user_home\user_order\src\main\java\org\example\mapper" />
@@ -168,8 +165,8 @@
       </set>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.CarMain">
-    <configuration name="test | 查询" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user_home/user_product/test.http" requestIdentifier="查询" runType="Run single request">
+  <component name="RunManager" selected="Spring Boot.VipMain">
+    <configuration name="test | 查询所有会员" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/admin_home/admin_vip/test.http" requestIdentifier="查询所有会员" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="test | 查询一个商品" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user_home/user_product/test.http" index="2" requestIdentifier="查询一个商品" runType="Run single request">
@@ -181,10 +178,7 @@
     <configuration name="test | 远程调用" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user_home/user_order/test.http" index="4" requestIdentifier="远程调用" runType="Run single request">
       <method v="2" />
     </configuration>
-    <configuration name="test | 查询多个商品#2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user_home/user_product/test.http" index="4" requestIdentifier="查询多个商品#2" runType="Run single request">
-      <method v="2" />
-    </configuration>
-    <configuration name="test | #2" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user_home/user_car/test.http" index="2" requestIdentifier="#2" runType="Run single request">
+    <configuration name="test | #1" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user_home/user_vipuser/test.http" requestIdentifier="#1" runType="Run single request">
       <method v="2" />
     </configuration>
     <configuration name="test | #5" type="HttpClient.HttpRequestRunConfigurationType" factoryName="HTTP Request" temporary="true" nameIsGenerated="true" path="$PROJECT_DIR$/user_home/user_product/test.http" index="5" requestIdentifier="#5" runType="Run single request">
@@ -235,6 +229,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="OrdersMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="user_orders" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.OrdersMain" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ProductMain (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="user_product" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.ProductMain" />
@@ -257,6 +264,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="VipMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="admin_vip" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.VipMain" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="VipUserMain" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="user_vipuser" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="org.example.VipUserMain" />
@@ -265,29 +279,30 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="HTTP Request.test | #1" />
       <item itemvalue="HTTP Request.test | #5" />
-      <item itemvalue="HTTP Request.test | 查询多个商品#2" />
-      <item itemvalue="HTTP Request.test | #2" />
-      <item itemvalue="HTTP Request.test | 查询" />
+      <item itemvalue="HTTP Request.test | 查询所有会员" />
       <item itemvalue="HTTP Request.test | 查询一个商品" />
       <item itemvalue="Spring Boot.AdminProductMain" />
       <item itemvalue="Spring Boot.CarMain" />
       <item itemvalue="Spring Boot.GateWayApp" />
       <item itemvalue="Spring Boot.ShoppingCar" />
+      <item itemvalue="Spring Boot.VipMain" />
       <item itemvalue="Spring Boot.AccountsMain" />
       <item itemvalue="Spring Boot.ConfigMain" />
       <item itemvalue="Spring Boot.OrderMain" />
       <item itemvalue="Spring Boot.ProductMain" />
       <item itemvalue="Spring Boot.ProductMain (1)" />
       <item itemvalue="Spring Boot.VipUserMain" />
+      <item itemvalue="Spring Boot.OrdersMain" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.OrdersMain" />
+        <item itemvalue="HTTP Request.test | 查询所有会员" />
+        <item itemvalue="HTTP Request.test | #1" />
         <item itemvalue="HTTP Request.test | #5" />
         <item itemvalue="HTTP Request.test | 查询一个商品" />
-        <item itemvalue="HTTP Request.test | 查询" />
-        <item itemvalue="HTTP Request.test | 查询多个商品#2" />
-        <item itemvalue="HTTP Request.test | #2" />
       </list>
     </recent_temporary>
   </component>
@@ -301,7 +316,7 @@
       <updated>1681899507012</updated>
       <workItem from="1681899508174" duration="66806000" />
       <workItem from="1683272406836" duration="14497000" />
-      <workItem from="1683367665794" duration="112890000" />
+      <workItem from="1683367665794" duration="166369000" />
     </task>
     <servers />
   </component>

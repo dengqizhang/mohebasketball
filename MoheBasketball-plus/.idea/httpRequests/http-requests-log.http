@@ -1,3 +1,44 @@
+GET http://localhost:10010/admin/vip/getvip
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T133905.200.json
+
+###
+
+GET http://localhost:10010/admin/vip/getvip
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T133903.200.json
+
+###
+
+GET http://localhost:10010/admin/vip
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T133844.404.json
+
+###
+
+GET http://localhost:10010/admin/vip/getVipUser
+Accept: application/json
+Connection: Keep-Alive
+User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
+Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
+Accept-Encoding: br,deflate,gzip,x-gzip
+
+<> 2023-05-31T133814.500.json
+
+###
+
 GET http://localhost:10010/user/product/getProduct/4
 Connection: Keep-Alive
 User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
@@ -468,46 +509,6 @@ Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
 Accept-Encoding: br,deflate,gzip,x-gzip
 
 <> 2023-05-22T192343.200.json
-
-###
-
-GET http://localhost:9010/user/car/car
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
-Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-05-22T192342.200.json
-
-###
-
-GET http://localhost:9010/user/car/car
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
-Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-05-22T192321.200.json
-
-###
-
-GET http://localhost:9010/user/car/car
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
-Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-05-22T191220.200.json
-
-###
-
-GET http://localhost:9010/user/car/car
-Connection: Keep-Alive
-User-Agent: Apache-HttpClient/4.5.13 (Java/17.0.6)
-Cookie: JSESSIONID=02B072AFA05A80DDE3A4D4D353269705
-Accept-Encoding: br,deflate,gzip,x-gzip
-
-<> 2023-05-22T191022.200.json
 
 ###
 
