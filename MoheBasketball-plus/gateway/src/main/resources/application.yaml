@@ -13,6 +13,14 @@ spring:
         server-addr: localhost:8848
         file-extension: yaml
     gateway:
+      #网关全局跨域配置
+      globalcors:
+        cors-configurations:
+          '[/**]':
+            allowedOrigins: "http://127.0.0.1:5173"
+            allowedMethods: "*"
+            allowedHeaders: "*"
+            allowCredentials: true
       routes:
         - id: order-service
           uri: http://localhost:9003

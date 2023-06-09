@@ -9,7 +9,6 @@ import java.util.List;
 
 @RestController
 @RequestMapping("/admin/vip")
-@CrossOrigin
 public class VipController {
     @Autowired
     VipService vipService;

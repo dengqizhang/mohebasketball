@@ -4,6 +4,7 @@
         "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
 <!-- ProductMapper.xml 文件 -->
 <mapper namespace="org.example.mapper.ProductMapper">
+<!--    根据id批量更新商品的库存数量-->
     <update id="batchUpdateByIds">
         update mh_user_tb_product
         set stock = case cid

@@ -6,15 +6,18 @@
   <component name="ChangeListManager">
     <list default="true" id="5b7fd42d-94be-4231-8d17-c3a6251291c2" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_home/admin_product/src/main/java/org/example/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/admin_home/admin_product/src/main/java/org/example/controller/ProductController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_home/admin_vip/src/main/java/org/example/controller/VipController.java" beforeDir="false" afterPath="$PROJECT_DIR$/admin_home/admin_vip/src/main/java/org/example/controller/VipController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/admin_home/admin_vip/target/classes/org/example/controller/VipController.class" beforeDir="false" afterPath="$PROJECT_DIR$/admin_home/admin_vip/target/classes/org/example/controller/VipController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_accounts/src/main/java/org/example/controller/AccountsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_accounts/src/main/java/org/example/controller/AccountsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/controller/CarController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/controller/CarController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/controller/CarController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/controller/CarController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_orders/src/main/java/org/example/controller/OrdersController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_orders/src/main/java/org/example/controller/OrdersController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_orders/target/classes/org/example/controller/OrdersController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_orders/target/classes/org/example/controller/OrdersController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/controller/ProductController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/mapper/ProductMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/ProductService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/impl/ProductServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/controller/ProductController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/ProductService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/impl/ProductServiceImpl.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -256,7 +259,7 @@
       <updated>1681899507012</updated>
       <workItem from="1681899508174" duration="66806000" />
       <workItem from="1683272406836" duration="14497000" />
-      <workItem from="1683367665794" duration="183982000" />
+      <workItem from="1683367665794" duration="194733000" />
     </task>
     <servers />
   </component>

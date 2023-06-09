@@ -12,7 +12,6 @@ import java.util.Map;
 
 
 @RestController
-@CrossOrigin
 @RequestMapping("/user/product")
 public class ProductController {
     @Autowired private ProductService productService;
@@ -41,6 +40,7 @@ public class ProductController {
     //根据id批量更新商品的库存数量
     @PostMapping("/batchUpdateByIds")
     public void batchUpdateByIds(@RequestBody ProductPo productPo){
+        System.out.println(productPo);
         productService.batchUpdateByIds(productPo);
     }
 }
