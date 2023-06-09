@@ -1,12 +1,14 @@
 package org.example.controller;
 import org.example.mapper.ProductMapper;
 import org.example.model.ProductDto;
+import org.example.pojo.ProductPo;
 import org.example.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import java.util.List;
+import java.util.Map;
 
 
 @RestController
@@ -36,5 +38,9 @@ public class ProductController {
          String result = productService.updateproduct(cid,stock);
          return ResponseEntity.ok(result);
     }
-
+    //根据id批量更新商品的库存数量
+    @PostMapping("/batchUpdateByIds")
+    public void batchUpdateByIds(@RequestBody ProductPo productPo){
+        productService.batchUpdateByIds(productPo);
+    }
 }

@@ -1,13 +1,18 @@
 package org.example.service.impl;
 
+import com.baomidou.mybatisplus.core.conditions.update.UpdateWrapper;
 import org.example.mapper.ProductMapper;
 import org.example.model.ProductDto;
+import org.example.pojo.ProductPo;
 import org.example.service.ProductService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
+import java.util.ArrayList;
+import java.util.HashMap;
 import java.util.List;
+import java.util.Map;
 
 @Service
 public class ProductServiceImpl implements ProductService {
@@ -46,4 +51,22 @@ public class ProductServiceImpl implements ProductService {
         //更新成功，返回成功信息
         return "更新库存成功";
     }
+    //根据id批量更新商品的库存数量
+    @Override
+    public void batchUpdateByIds(ProductPo productPo) {
+        Map<Integer,Integer> idStockMap =  productPo.getIdStockMap();
+        if (idStockMap == null || idStockMap.isEmpty()){
+            return;
+        }
+        List<Integer> ids = new ArrayList<>();
+        List<Integer> stocks = new ArrayList<>();
+        for (Map.Entry<Integer,Integer> entry : idStockMap.entrySet()){
+            Integer id = entry.getKey();
+            Integer stock = entry.getValue();
+            ids.add(id);
+            stocks.add(stock);
+        }
+        productMapper.batchUpdateByIds(ids,stocks);
+    }
+
 }

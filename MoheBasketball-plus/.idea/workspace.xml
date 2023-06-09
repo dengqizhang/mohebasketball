@@ -5,76 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5b7fd42d-94be-4231-8d17-c3a6251291c2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T191022.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T191220.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T192321.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/2023-05-22T192342.200.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/httpRequests/http-requests-log.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/admin_home/admin_vip/test.http" beforeDir="false" afterPath="$PROJECT_DIR$/admin_home/admin_vip/test.http" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/src/main/resources/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gateway/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/target/classes/application.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/client/ProductClient.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/client/ProductClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/domin/Car.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/domin/Car.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/pojo/CarPo.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/pojo/CarPo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/CarService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/CarService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/impl/CarServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/src/main/java/org/example/service/impl/CarServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/client/ProductClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/client/ProductClient.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/domin/Car.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/domin/Car.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/pojo/CarPo.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/pojo/CarPo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/service/impl/CarServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_car/target/classes/org/example/service/impl/CarServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/pom.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/OrderMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/AccountsClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/ProductClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/fallback/FallBackAccountsClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/client/fallback/FallBackProductClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/controller/OrderController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/domin/Order.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/mapper/OrderMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/pojo/OrderPo.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/service/OrderService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/java/org/example/service/impl/OrderServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/OrderMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/AccountsClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/ProductClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/fallback/FallBackAccountsClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/client/fallback/FallBackProductClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/controller/OrderController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/domin/Order.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/mapper/OrderMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/pojo/OrderPo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/service/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/target/classes/org/example/service/impl/OrderServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_order/test.http" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/controller/ProductController.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/controller/ProductController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/mapper/ProductMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/mapper/ProductMapper.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/ProductService.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/ProductService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/impl/ProductServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/java/org/example/service/impl/ProductServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_product/src/main/resources/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/src/main/resources/application.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/application.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/application.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/controller/ProductController.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/controller/ProductController.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/ProductService.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/ProductService.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/impl/ProductServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_product/target/classes/org/example/service/impl/ProductServiceImpl.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user_home/user_orders/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/VipUserMain.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/controller/VipUserController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/mapper/VipUserMapper.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/service/VipUserService.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/java/org/example/service/impl/VipUserServiceImpl.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/src/main/resources/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/application.yaml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/VipUserMain.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/controller/VipUserController.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/mapper/VipUserMapper.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/service/VipUserService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/target/classes/org/example/service/impl/VipUserServiceImpl.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/user_home/user_vipuser/test.http" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,8 +26,8 @@
       <list>
         <option value="FxmlFile" />
         <option value="Tag Library Descriptor" />
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -316,7 +256,7 @@
       <updated>1681899507012</updated>
       <workItem from="1681899508174" duration="66806000" />
       <workItem from="1683272406836" duration="14497000" />
-      <workItem from="1683367665794" duration="166369000" />
+      <workItem from="1683367665794" duration="183982000" />
     </task>
     <servers />
   </component>

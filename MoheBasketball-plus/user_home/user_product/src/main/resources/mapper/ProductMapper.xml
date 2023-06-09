@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper
+        PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+        "https://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<!-- ProductMapper.xml 文件 -->
+<mapper namespace="org.example.mapper.ProductMapper">
+<!--    根据id批量更新商品的库存数量-->
+    <update id="batchUpdateByIds">
+        update mh_user_tb_product
+        set stock = case cid
+        <foreach collection="ids" index="index" item="cid" separator=" ">
+            when #{cid} then stock - #{stocks[${index}]}
+        </foreach>
+        end
+        where cid in
+        <foreach collection="ids" item="cid" open="(" separator="," close=")">
+            #{cid}
+        </foreach>
+    </update>
+</mapper>
